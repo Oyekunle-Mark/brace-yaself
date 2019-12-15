@@ -1,3 +1,3 @@
 # brace-yaself
 
-Practice Scheme programs
+Programs from the book `The Little Lisper`.
