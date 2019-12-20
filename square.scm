@@ -1,3 +1,5 @@
+; demonstrates assigning compound procedures
+
 (define (square x)
     (* x x))
 
