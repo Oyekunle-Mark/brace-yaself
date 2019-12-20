@@ -1,3 +1,3 @@
 # brace-yaself
 
-Programs from the book `The Little Lisper`.
+Programs from some Scheme books I have had the luxury of reading.
